@@ -15,7 +15,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Frecyber1/Frecyber-md">
+  <a href="https://github.com/frecyber1/Frecyber-md">
     <img alt="frecyber docs" height="300" src="https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg">
   </a>
 </p>
@@ -28,12 +28,12 @@
   <a href="https://wa.me/+255620814108?text=Hi+Boy--+I+Need+Help.+I+messaged+you+from+frecyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Frecyber-md is free to use" href="https://github.com/Frecyber1/Frecyber-md" target="_blank">
+  <a aria-label="Frecyber-md is free to use" href="https://github.com/frecyber1/Frecyber-md" target="_blank">
     <img alt="FredietechTZ" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Frecyber1}/count.svg" alt="Frecyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{frecyber1}/count.svg" alt="Frecyber-md :: Visitor's Count" /></p>
 ---
 
 
@@ -49,11 +49,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Frecyber1/Frecyber-md"><b>Frecyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/frecyber1/Frecyber-md"><b>Frecyber-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Frecyber1/Frecyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/frecyber1/Frecyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
