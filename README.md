@@ -8,14 +8,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+frecyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+♥️+💋+💞;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Frecyber)
+[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+frecyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+♥️+💋+💞;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Frecyber1)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Frecyber/Frecyber-md">
+  <a href="https://github.com/Frecyber1/Frecyber-md">
     <img alt="frecyber docs" height="300" src="https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg">
   </a>
 </p>
@@ -28,12 +28,12 @@
   <a href="https://wa.me/+255620814108?text=Hi+Boy--+I+Need+Help.+I+messaged+you+from+frecyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Frecyber-md is free to use" href="https://github.com/Frecyber/Frecyber-md" target="_blank">
+  <a aria-label="Frecyber-md is free to use" href="https://github.com/Frecyber1/Frecyber-md" target="_blank">
     <img alt="FredietechTZ" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Frecyber}/count.svg" alt="Frecyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Frecyber1}/count.svg" alt="Frecyber-md :: Visitor's Count" /></p>
 ---
 
 
@@ -49,21 +49,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Frecyber/Frecyber-md"><b>Frecyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/Frecyber1/Frecyber-md"><b>Frecyber-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Frecyber/Frecyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Frecyber1/Frecyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ffrecyber%2Ffrecyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ffrecyber1%2Ffrecyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://frecyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Frecyber/Frecyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108&env[MONGODB_URI]&&env[OWNER_NAME]=fredie ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-tech&env[KOYEB_NAME]=Frecyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/957aab565af943d0c5109.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Frecyber1/Frecyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108&env[MONGODB_URI]&&env[OWNER_NAME]=fredie ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-tech&env[KOYEB_NAME]=Frecyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/957aab565af943d0c5109.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/Frecyber/Frecyber-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Frecyber1/Frecyber-md/issues">issue</a></p>
 
  
 
@@ -101,23 +101,23 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-md-qr.onrender.com/) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://fredietech.onrender.com) or server 2 qr code
     <br>
-<a href="https://venocyber-md-qr.onrender.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://frecyber-session-602b55dde9f4.herokuapp.com/). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+<a href="https://fredietech.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://fredietech.onrender.com). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
-<a href="https://frecyber-session-602b55dde9f4.herokuapp.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://fredietech.onrender.com"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/izoxfW3anrU). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Frecyber/Frecyber-md) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/Frecyber1/Frecyber-md) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/izoxfW3anrU).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Frecyber/Frecyber-md)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/Frecyber/Frecyber-Md)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Frecyber1/Frecyber-md)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Frecyber1/Frecyber-Md)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Frecyber/Frecyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/957aab565af943d0c5109.jpg)***
-11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Frecyber/Frecyber-md/tree/main)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Frecyber1/Frecyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/957aab565af943d0c5109.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Frecyber1/Frecyber-md/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -130,7 +130,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [Fredie Tech](https://github.com/Frecyber) 
+- [Fredie Tech](https://github.com/Frecyber1) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -144,7 +144,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Frecyber-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Frecyber-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Frecyber/Frecyber-md)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Frecyber1/Frecyber-md)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -178,14 +178,14 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/957aab565af943d0c5109.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+frecyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Frecyber)
+[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+frecyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Frecyber1)
 
 <h1>💞</h1> 
 <b>Thanks For</b> -
 
  [fredie 🫶](https://wa.me/message/255620814108) for Voice ,[fredietech](https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg) , [he.is.me](http://github.com/Fred1e) thanks for helps 💖
 
- ## [ WHATSAPP GROUPS ](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
+***[WhatsApp Groups](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
